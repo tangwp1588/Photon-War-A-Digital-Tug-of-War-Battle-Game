@@ -32,12 +32,7 @@ A competitive two-player sci-fi themed digital logic mini-game built entirely us
 ---
 
 ## Internal Circuitry
-
-A look inside the hardware implementation, wiring, and circuit schematics:
-
-### Breadboard Circuit Prototype
-*(Replace the link below with your actual image path or drag-and-drop your image into your GitHub repository)*
-![Breadboard Circuit Prototype](picture/breadboard_circuit.png)
+![Breadboard Circuit Prototype](picture/breadboard_circuit.jpg)
 
 ---
 
